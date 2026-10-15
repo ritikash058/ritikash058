@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 👋 Hello, I'm Ritika Shrestha<br>Software Engineer | MERN Stack Developer | DevOps Enthusiast<br><br>💼 Currently working as a Software Engineer, building scalable web applications and exploring the DevOps ecosystem.<br><br>🛠️ Tech Stack<br>Frontend:<br><br>React.js • Next.js • TypeScript • Redux • Tailwind CSS<br><br>Backend:<br><br>Node.js • Express.js • REST APIs <br><br>Database & ORM:<br><br>MongoDB • Mongoose • PostgreSQL<br><br>DevOps & Tools:<br><br>Docker • AWS basics • CI/CD (GitHub Actions/GitLab Actions)<br><br>Git • Linux • Nginx <br><br>🌱 Currently Learning<br>Advanced DevOps practices<br><br>Microservices architecture<br><br>Cloud-native technologies<br><br>📈 What I'm Working On<br>Building full-stack MERN applications<br><br>Implementing CI/CD pipelines for projects<br><br>Exploring containerization and orchestration
 
-
+## Portfolio:
+[Portfolio](https://ritika-shrestha-portfolio.vercel.app/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritika.shrestha0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritika-shresth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikashrestha058@gmail.com) 
 
